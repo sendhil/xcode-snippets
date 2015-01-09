@@ -1,6 +1,7 @@
 // Set Frame
 // Initializes a view frame inside a code block
 //
+// IDECodeSnippetCompletionPrefix: frame
 // IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: BAE0AE5F-8ED8-4074-ADEC-94F531759170
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
