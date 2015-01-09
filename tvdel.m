@@ -1,6 +1,7 @@
 // UITableViewDelegate
 // Placeholders for required UITableViewDelegate protocol methods
 //
+// IDECodeSnippetCompletionPrefix: tvdel
 // IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: 6FF17C61-7086-4B51-976C-EF66BC5AE322
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
