@@ -9,6 +9,6 @@
 
 <# view #>.frame = ({
     CGRect frame = <# view #>.frame;
-    <# ... #>
+    f
     frame;
 });
