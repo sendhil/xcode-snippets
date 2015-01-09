@@ -1,4 +1,4 @@
-// UIControlEventTouchUpInside
+// tu=
 // 
 //
 // IDECodeSnippetCompletionScopes: [All]
