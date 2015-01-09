@@ -1,6 +1,7 @@
 // Documents Directory Path
 // 
 //
+// IDECodeSnippetCompletionPrefix: documents
 // IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: B7C750DC-605C-46F5-9D12-CA0E0F893670
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
