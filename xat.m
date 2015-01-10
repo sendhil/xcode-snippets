@@ -8,4 +8,4 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 
-XCTAssertTrue(<#expression#>, <#message#>);
+XCTAssertTrue(<#expression#>);

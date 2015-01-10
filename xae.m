@@ -8,4 +8,4 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 
-XCTAssertEqual(<#expected#>, <#actual#>, <#message#>);
+XCTAssertEqual(<#expected#>, <#actual#>);
